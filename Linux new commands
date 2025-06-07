@@ -4,3 +4,4 @@ mv file{1..100} dir-name
 replacing the word---sed -i 's/old-name/new-name/g' filename
 
 empty the file        > filename
+zip -r file27.zip . -i /file27
